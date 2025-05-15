@@ -2,7 +2,7 @@ build:
   version:  "3.0"
 
 accounts:
-  message: "Welcome to EazyBank Prod Git Accounts"
+  message: "Welcome to EazyBank Prodution Git Accounts"
   contactDetails:
     name: "Rupesh"
     email: "rsingh93@gmail.com"
