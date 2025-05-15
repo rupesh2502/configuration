@@ -1,0 +1,11 @@
+build:
+  version:  "1.0"
+
+cards:
+  message: "Welcome to EazyBank Cards"
+  contactDetails:
+    name: "Rupesh"
+    email: "rsingh93@gmail.com"
+  onCallSupport:
+    - 9902469093
+    - 6203586006  

@@ -1,0 +1,11 @@
+build:
+  version:  "2.0"
+
+accounts:
+  message: "Welcome to EazyBank QA Accounts"
+  contactDetails:
+    name: "Rupesh"
+    email: "rsingh93@gmail.com"
+  onCallSupport:
+    - 9902469093
+    - 6203586006
