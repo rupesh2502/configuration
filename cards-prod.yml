@@ -2,7 +2,7 @@ build:
   version:  "3.0"
 
 cards:
-  message: "Welcome to EazyBank Prod Cards"
+  message: "Welcome to EazyBank Producation Cards"
   contactDetails:
     name: "Rupesh"
     email: "rsingh93@gmail.com"
