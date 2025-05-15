@@ -2,7 +2,7 @@ build:
   version:  "3.0"
 
 loans:
-  message: "Welcome to EazyBank Prod Loans"
+  message: "Welcome to EazyBank Production Loans"
   contactDetails:
     name: "Rupesh"
     email: "rsingh93@gmail.com"
