@@ -2,7 +2,7 @@ build:
   version:  "3.0"
 
 cards:
-  message: "Welcome to EazyBank Producation Cloud Bus1 Cards"
+  message: "Welcome to EazyBank Producation Cloud Bus2 Cards"
   contactDetails:
     name: "Rupesh"
     email: "rsingh93@gmail.com"
