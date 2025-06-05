@@ -2,7 +2,7 @@ build:
   version:  "1.0"
 
 accounts:
-  message: "Welcome to EazyBank Accounts"
+  message: "Welcome to EazyBank Default WebHook Accounts"
   contactDetails:
     name: "Rupesh"
     email: "rsingh93@gmail.com"
