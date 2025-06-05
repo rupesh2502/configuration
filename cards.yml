@@ -2,7 +2,7 @@ build:
   version:  "1.0"
 
 cards:
-  message: "Welcome to EazyBank Cards"
+  message: "Welcome to EazyBank Default WebHook Cards"
   contactDetails:
     name: "Rupesh"
     email: "rsingh93@gmail.com"
