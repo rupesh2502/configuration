@@ -2,7 +2,7 @@ build:
   version:  "3.0"
 
 accounts:
-  message: "Welcome to EazyBank Prodution Cloud Bus WebHook Updated Accounts"
+  message: "Welcome to EazyBank Prodution Cloud Bus WebHook Updated  Accounts"
   contactDetails:
     name: "Rupesh"
     email: "rsingh93@gmail.com"
