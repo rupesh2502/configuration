@@ -2,7 +2,7 @@ build:
   version:  "3.0"
 
 cards:
-  message: "Welcome to EazyBank Prodution Cloud Bus WebHook Cards"
+  message: "Welcome to EazyBank Prodution Cloud Bus WebHook Updated Cards"
   contactDetails:
     name: "Rupesh"
     email: "rsingh93@gmail.com"
