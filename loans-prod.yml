@@ -2,7 +2,7 @@ build:
   version:  "3.0"
 
 loans:
-  message: "Welcome to EazyBank Prodution Cloud Bus2 Loans"
+  message: "Welcome to EazyBank Prodution Cloud Bus WebHook Loans"
   contactDetails:
     name: "Rupesh"
     email: "rsingh93@gmail.com"
